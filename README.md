@@ -4,7 +4,10 @@ Generative AI, often shortened to GenAI, is any type of artificial intelligence 
 
 Databricks unifies the AI lifecycle from data collection and preparation, to model development and LLMOps, to serving and monitoring. In Blueprint GenAI webinar series, we demonstrate the power of GenAI on Databricks for a variety of departments.
 
-This repository includes links to all the accelerators demonstrated during the webinar series.
+This repository includes links to all the accelerators demonstrated during the webinar series. The webinar series includes:
+- [GenAI with Databricks for HR](https://www.youtube.com/live/xpBVXYw2jaI?si=gi9A0jwxlORNt5nw)
+- [GenAI with Databricks for Sales](https://www.youtube.com/live/Xqx-r5rbj2o?si=V_GfFgCny_qXaxiu)
+
 
 Learn more about Blueprint's Databricks Center of Excellence at https://bpcs.com/databricks.
 
